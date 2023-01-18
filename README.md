@@ -24,7 +24,7 @@ vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6Im1ldHJp
 
 vmess://eyJhZGQiOiJpcmFuc2VydmVyLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6Im1ldHJpeDk3Lm51bGxpZGVudGlmaWVydG9zdHJpbmd2YWx1ZS5uZXQiLCJpZCI6Ijc3MzdhZTA2LTk1NDAtMTFlZC1hMWViLTAyNDJhYzEyMDAwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MDgwIiwicHMiOiJAQUxQSEFQSU5HIHwgQFYycmF5TkdhbHBoYSDYp9qv2LEg2YLYt9i5INi02K/bjCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-#Shadows
+# Shadows
 ssr://NDUuODkuMjI5LjM1OjM3MTE5Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYURWMS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPThKLVV0RUJOYjJKcGJHbHVkR1Z5Ym1WME0tLTRqLUtEb3c
 
 ssr://NDUuOC4xNTkuMTUzOjM3MTE5Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYURWMS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPU11LTRqLUtEbzBCTmIySnBiR2x1ZEdWeWJtVjA4Si1mb1E
@@ -35,3 +35,6 @@ ssr://MTk0LjE1Ni4xMjAuMzozNzExOTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2FEVjEvP2
 # TG Proxy
 
 [اتصال](https://t.me/proxy?server=xn--tor5qut368enl2c.click&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkcm9wYm94LmNvbQ)
+[اتصال](https://t.me/proxy?server=xn--tor5qut368enl2c.beauty&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkcm9wYm94LmNvbQ)
+[اتصال](https://t.me/proxy?server=1.1401.xn--sh1bq8gnra45bc9rftaj62a.online&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t)
+[اتصال](https://t.me/proxy?server=195.133.38.189&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d)
