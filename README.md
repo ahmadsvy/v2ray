@@ -30,3 +30,8 @@ ssr://NDUuODkuMjI5LjM1OjM3MTE5Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYURWMS8_b2
 ssr://NDUuOC4xNTkuMTUzOjM3MTE5Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYURWMS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPU11LTRqLUtEbzBCTmIySnBiR2x1ZEdWeWJtVjA4Si1mb1E
 
 ssr://MTk0LjE1Ni4xMjAuMzozNzExOTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2FEVjEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1NZS00ai1LRG8wQk5iMkpwYkdsdWRHVnlibVYwOEotZm9n
+
+
+# TG Proxy
+
+[اتصال](https://t.me/proxy?server=xn--tor5qut368enl2c.click&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkcm9wYm94LmNvbQ)
