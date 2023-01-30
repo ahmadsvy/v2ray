@@ -47,6 +47,43 @@ ssr://MTk0LjE1Ni4xMjAuMzozNzExOTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2FEVjEvP2
 
 [اتصال](https://t.me/proxy?server=om.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_like.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_waya.cloudflare.thisis.namava.cyou.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t)
 
+
+‌ https://t.me/proxy?server=www.lince.lol&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=har-reshte-gosast-mitavan-bast-laken-gereh-ey-dar-mian-ast.store&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkcm9wYm94LmNvbQ
+
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_trde.koromozom.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=appel-lenovo-777.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABhcHBsZS5jb20
+
+https://t.me/proxy?server=www.mo2tors.xyz&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.izzotop.lol&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.mo2tors.xyz&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.x443.quest&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_chet.koromozom.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABhcHBsZS5jb20
+
+https://t.me/proxy?server=www.izzotop.lol&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=har-reshte-gosast-mitavan-bast-laken-gereh-ey-dar-mian-ast.store&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkcm9wYm94LmNvbQ
+
+https://t.me/proxy?server=www.iran--------parsonline.dynu.com..&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.cloud--------flaer.dynu.com..&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.pars--------online.dynu.com..&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.cloud--------blogfa.dynu.com..&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.arvan--------cloud.dynu.com..&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+https://t.me/proxy?server=www.micro--------azure.dynu.com..&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
+
+
+
 <hr>
 
 # Ahmad.sVy
