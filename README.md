@@ -42,6 +42,11 @@ ssr://MTk0LjE1Ni4xMjAuMzozNzExOTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2FEVjEvP2
 [اتصال](https://t.me/proxy?server=195.74.93.34&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d)
 [اتصال](https://t.me/proxy?server=46.229.243.69&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d)
 [اتصال](https://t.me/proxy?server=194.87.245.172&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d)
+
+[اتصال](https://t.me/proxy?server=212.192.243.42&port=443&secret=eec80ff604fa45408f1d152624d3bffcf26b65746161626f6e6c696e652e636f6d)
+
+[اتصال](https://t.me/proxy?server=om.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_like.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_waya.cloudflare.thisis.namava.cyou.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t)
+
 <hr>
 
 # Ahmad.sVy
