@@ -82,7 +82,7 @@ https://t.me/proxy?server=www.arvan--------cloud.dynu.com..&port=443&secret=7gAA
 
 https://t.me/proxy?server=www.micro--------azure.dynu.com..&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t
 
-
+https://t.me/proxy?server=5.160.219.168&port=4560&secret=ddaabbccddeeff11223344556677889900
 
 <hr>
 
