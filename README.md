@@ -84,6 +84,8 @@ https://t.me/proxy?server=www.micro--------azure.dynu.com..&port=443&secret=7gAA
 
 https://t.me/proxy?server=5.160.219.168&port=4560&secret=ddaabbccddeeff11223344556677889900
 
+https://t.me/proxy?server=116.203.225.148&port=443&secret=7iCV3sXnqFL0LfMWVdPL53N3d3cuZ29vZ2xlLmNvbQ
+
 <hr>
 
 # Ahmad.sVy
